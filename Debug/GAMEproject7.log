@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(62,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(68,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(72,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(72,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(82,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(82,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(254,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(254,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(345,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ITECH\source\repos\GAMEproject7\Source.cpp(345,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GAMEproject7.vcxproj -> C:\Users\ITECH\source\repos\GAMEproject7\Debug\GAMEproject7.exe
